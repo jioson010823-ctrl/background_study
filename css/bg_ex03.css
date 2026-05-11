@@ -1,0 +1,14 @@
+@import url("reset.css");
+body {
+  background: url(../images/attachment/bg4.jpg) no-repeat center;
+  background-size: cover;
+  height: 100vh;
+  background-position: fixed;
+}
+h1 {
+  color: #fff;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
