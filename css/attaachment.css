@@ -1,0 +1,23 @@
+@import url("reset.css");
+.area {
+  width: 100%;
+  height: 1000px;
+}
+#areal1 {
+  background: url("../images/attachment/bg1.jpg") no-repeat center;
+  background-size: cover;
+}
+#areal2 {
+  background: url("../images/attachment/bg2.jpg") no-repeat center / cover;
+  background-attachment: fixed;
+}
+#areal3 {
+  background: url("../images/attachment/bg3.jpg") no-repeat center / cover;
+}
+#areal4 {
+  background: url("../images/attachment/bg4.jpg") no-repeat center / cover;
+  background-attachment: fixed;
+}
+#areal5 {
+  background: url("../images/attachment/bg5.jpg") no-repeat center / cover;
+}
